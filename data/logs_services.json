@@ -1,0 +1,134 @@
+[
+  {
+    "service_id": 1,
+    "service_name": "api-gateway",
+    "description": "Microservice for api gateway",
+    "team": "Platform",
+    "language": "Python",
+    "repository_url": "https://github.com/company/api-gateway",
+    "current_version": "3.3.6",
+    "is_critical": true,
+    "created_at": "2021-04-10"
+  },
+  {
+    "service_id": 2,
+    "service_name": "user-service",
+    "description": "Microservice for user service",
+    "team": "Growth",
+    "language": "Rust",
+    "repository_url": "https://github.com/company/user-service",
+    "current_version": "1.0.17",
+    "is_critical": false,
+    "created_at": "2020-12-18"
+  },
+  {
+    "service_id": 3,
+    "service_name": "order-service",
+    "description": "Microservice for order service",
+    "team": "Infrastructure",
+    "language": "Python",
+    "repository_url": "https://github.com/company/order-service",
+    "current_version": "3.4.14",
+    "is_critical": false,
+    "created_at": "2020-10-05"
+  },
+  {
+    "service_id": 4,
+    "service_name": "payment-service",
+    "description": "Microservice for payment service",
+    "team": "Growth",
+    "language": "Java",
+    "repository_url": "https://github.com/company/payment-service",
+    "current_version": "5.1.12",
+    "is_critical": false,
+    "created_at": "2022-05-06"
+  },
+  {
+    "service_id": 5,
+    "service_name": "inventory-service",
+    "description": "Microservice for inventory service",
+    "team": "Platform",
+    "language": "Node.js",
+    "repository_url": "https://github.com/company/inventory-service",
+    "current_version": "2.2.20",
+    "is_critical": false,
+    "created_at": "2022-01-05"
+  },
+  {
+    "service_id": 6,
+    "service_name": "notification-service",
+    "description": "Microservice for notification service",
+    "team": "Platform",
+    "language": "Node.js",
+    "repository_url": "https://github.com/company/notification-service",
+    "current_version": "5.1.18",
+    "is_critical": false,
+    "created_at": "2020-07-08"
+  },
+  {
+    "service_id": 7,
+    "service_name": "auth-service",
+    "description": "Microservice for auth service",
+    "team": "Checkout",
+    "language": "Go",
+    "repository_url": "https://github.com/company/auth-service",
+    "current_version": "3.7.20",
+    "is_critical": false,
+    "created_at": "2020-12-19"
+  },
+  {
+    "service_id": 8,
+    "service_name": "analytics-service",
+    "description": "Microservice for analytics service",
+    "team": "Growth",
+    "language": "Java",
+    "repository_url": "https://github.com/company/analytics-service",
+    "current_version": "5.9.17",
+    "is_critical": false,
+    "created_at": "2022-01-03"
+  },
+  {
+    "service_id": 9,
+    "service_name": "search-service",
+    "description": "Microservice for search service",
+    "team": "Platform",
+    "language": "Rust",
+    "repository_url": "https://github.com/company/search-service",
+    "current_version": "2.4.7",
+    "is_critical": false,
+    "created_at": "2021-08-27"
+  },
+  {
+    "service_id": 10,
+    "service_name": "recommendation-service",
+    "description": "Microservice for recommendation service",
+    "team": "Platform",
+    "language": "Go",
+    "repository_url": "https://github.com/company/recommendation-service",
+    "current_version": "4.4.0",
+    "is_critical": false,
+    "created_at": "2023-07-06"
+  },
+  {
+    "service_id": 11,
+    "service_name": "shipping-service",
+    "description": "Microservice for shipping service",
+    "team": "Growth",
+    "language": "Rust",
+    "repository_url": "https://github.com/company/shipping-service",
+    "current_version": "2.2.16",
+    "is_critical": false,
+    "created_at": "2023-03-25"
+  },
+  {
+    "service_id": 12,
+    "service_name": "email-service",
+    "description": "Microservice for email service",
+    "team": "Platform",
+    "language": "Go",
+    "repository_url": "https://github.com/company/email-service",
+    "current_version": "5.3.10",
+    "is_critical": false,
+    "created_at": "2021-10-16"
+  }
+]
